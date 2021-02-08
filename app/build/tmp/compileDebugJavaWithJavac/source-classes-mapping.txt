@@ -1,0 +1,2 @@
+com/nanioi/practiceproject/BuildConfig.java
+ com.nanioi.practiceproject.BuildConfig
